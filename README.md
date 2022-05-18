@@ -20,4 +20,4 @@
                            
 # Big-O Notation
 
-- O(logn)
+- Merge Sort = O(nlogn)
